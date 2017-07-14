@@ -14,7 +14,7 @@ object ScalaApp {
 
     loc.move(120, 320, -30);
 
-    4 times println("Fuck you")
+    4 times println("Hi there")
 
     // From 1 to 9
     for (a <- 1 until 10){
